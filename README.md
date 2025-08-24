@@ -1,7 +1,5 @@
 # LogReg-Project
 
-# IMPORTANT
-
 This notebook is for learning purposes
 
 The project is making a classification model which predicts the likeliness of someone adopting a program.
